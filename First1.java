@@ -2,7 +2,7 @@ class First
 {
 public static void main(String[] args)
 {
-System.out.println ("Vanakkam Makkal");
+System.out.println ("I am a Proud Indian");
 }
 
 }
